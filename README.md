@@ -26,7 +26,7 @@
 
 ## 1. Setup
 
-Today we're going to use the code playground, [codepen.io](http://codepen.io/pen/), to experiment with regular expressions in an HTML `<input>` element.
+Today we're going to use the code playground, [codepen.io](http://codepen.io/pen/), to experiment with regular expressions in an HTML `<input>` element, or feel free to touch and scaffold an HTML and JS file in your Code Editor.
 
 1. Create a new pen, and hide the JS pane.
 
